@@ -1,0 +1,9 @@
+.data{
+    border: 3px solid goldenrod;
+    display: flex;
+    
+    margin: 10px;
+}
+.image{
+    height: 350px;
+}
