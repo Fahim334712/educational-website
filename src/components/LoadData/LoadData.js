@@ -2,7 +2,7 @@
 import './LoadData.css';
 
 const LoadData = (props) => {
-    const { name, picture } = props.data;
+    const { name, picture, qualification } = props.data;
 
     return (
         <div>
@@ -11,8 +11,8 @@ const LoadData = (props) => {
                     <img className="image" src={picture} alt="" />
                 </div>
                 <div>
-                    <p>The name is {name}</p>
-                    <p>Qualification : M.sc</p>
+                    <h5>Name: {name}</h5>
+                    <h5>Qualification :{qualification}</h5>
                 </div>
             </div>
 

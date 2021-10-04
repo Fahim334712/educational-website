@@ -8,7 +8,7 @@
         "category": "APPLIDECK"
     },
     {
-        "_id": "615afefb93c0fd0317f77b29",
+        "_id": "615afefb93c0",
         "index": 1,
         "fee": "$3000",
         "picture": "images/img-2.jpg",
@@ -16,7 +16,7 @@
         "category": "LETPRO"
     },
     {
-        "_id": "615afefb87ebaaa08a327d3d",
+        "_id": "615afefb87ebaaa08a327d3",
         "index": 2,
         "fee": "$5000",
         "picture": "images/img-3.jpg",
@@ -24,7 +24,7 @@
         "category": "ECSTASIA"
     },
     {
-        "_id": "615afefbde14161480bdcc49",
+        "_id": "615afefbde1416",
         "index": 3,
         "fee": "$7000",
         "picture": "images/img-4.jpg",
@@ -32,50 +32,50 @@
         "category": "KIDSTOCK"
     },
     {
-        "_id": "615afefb87ebaaa08a327d3d",
+        "_id": "615afefb87ebaaa08a32",
         "index": 2,
         "fee": "$5000",
-        "picture": "images/img-3.jpg",
+        "picture": "images/img-5.jpg",
         "course": "Meyer Bryant",
         "category": "ECSTASIA"
     },
     {
-        "_id": "615afefb87ebaaa08a327d3d",
+        "_id": "615afefb87ebaaa08a",
         "index": 2,
         "fee": "$5000",
-        "picture": "images/img-3.jpg",
+        "picture": "images/img-6.jpg",
         "course": "Meyer Bryant",
         "category": "ECSTASIA"
     },
     {
-        "_id": "615afefb87ebaaa08a327d3d",
+        "_id": "615afefb87ebaaa0",
         "index": 2,
         "fee": "$5000",
-        "picture": "images/img-3.jpg",
+        "picture": "images/img-7.jpg",
         "course": "Meyer Bryant",
         "category": "ECSTASIA"
     },
     {
-        "_id": "615afefb87ebaaa08a327d3d",
+        "_id": "615afefb87ebaaa08a",
         "index": 2,
         "fee": "$5000",
-        "picture": "images/img-3.jpg",
+        "picture": "images/img-8.jpg",
         "course": "Meyer Bryant",
         "category": "ECSTASIA"
     },
     {
-        "_id": "615afefb87ebaaa08a327d3d",
+        "_id": "615afefb87ebaaa08a32",
         "index": 2,
         "fee": "$5000",
-        "picture": "images/img-3.jpg",
+        "picture": "images/img-9.jpg",
         "course": "Meyer Bryant",
         "category": "ECSTASIA"
     },
     {
-        "_id": "615afefb87ebaaa08a327d3d",
+        "_id": "615afefb87ebaaa08a327y",
         "index": 2,
         "fee": "$5000",
-        "picture": "images/img-3.jpg",
+        "picture": "images/img-10.jpg",
         "course": "Meyer Bryant",
         "category": "ECSTASIA"
     }

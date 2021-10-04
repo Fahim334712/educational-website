@@ -1,9 +1,10 @@
 .data{
     border: 3px solid goldenrod;
     display: flex;
-    
+    border-radius: 15px;
     margin: 10px;
 }
 .image{
-    height: 350px;
+    height: 240px;
+    border-radius: 20px;
 }

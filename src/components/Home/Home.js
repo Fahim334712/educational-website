@@ -17,18 +17,21 @@ const Home = () => {
         courses.push('./courses');
     }
     return (
-        <div className="photoGrid container">
+        <div >
+            <h4 className="m-4">Avaiable Courses :</h4>
+            <div className="photoGrid container">
 
-            <div>
-                <h2>Available Courses are :</h2>
-                {
-                    homes.map(home => <DisplayHome key={home._id} home={home}></DisplayHome>)
-                }
+                <div>
+
+                    {
+                        homes.map(home => <DisplayHome key={home._id} home={home}></DisplayHome>)
+                    }
+                </div>
+                <div className="mt-5">
+                    <img className="imSize" src="./images/fav.png" alt="" />
+                </div>
+                <Button onClick={handleCourses} variant="success">See all Courses</Button>
             </div>
-            <div className="mt-5">
-                <img className="imSize" src="./images/fav.png" alt="" />
-            </div>
-            <Button onClick={handleCourses} variant="success">See all Courses</Button>
         </div>
     );
 };

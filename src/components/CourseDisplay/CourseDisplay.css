@@ -1,0 +1,16 @@
+.theFlex{
+    display: flex;
+    border: 3px solid hotpink;
+}
+.imagesize{
+    height: 100px;
+    width: 200px;
+    border-radius: 20px;
+    margin: 10px 0px 5px 5px;
+}
+.align{
+    text-align: left;
+    margin-left: 10px;
+    line-height: 80%;
+    margin-top: 10px;
+}

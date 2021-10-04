@@ -11,6 +11,8 @@ import Header from './components/Header/Header';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import LoadData from './components/LoadData/LoadData';
 import DisplayHome from './components/DisplayHome/DisplayHome';
+import CourseDisplay from './components/CourseDisplay/CourseDisplay';
+import Footer from './components/Footer/Footer';
 
 
 function App() {
@@ -31,6 +33,9 @@ function App() {
           <Route path="/courses">
             <Courses></Courses>
           </Route>
+          <Route path="/courses">
+            <CourseDisplay></CourseDisplay>
+          </Route>
           <Route path="/contact">
             <Contact></Contact>
           </Route>
@@ -47,7 +52,7 @@ function App() {
             <NotFound></NotFound>
           </Route>
         </Switch>
-
+        <Footer></Footer>
       </BrowserRouter>
     </div>
   );
