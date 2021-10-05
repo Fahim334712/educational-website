@@ -21,10 +21,15 @@
 }
 @media only screen and (max-width:688px) {
     .imagesize{
-        height: 100px;
+        height: 150px;
+        width: 200px;
         border-radius: 20px;
     }
     .align{
         text-align: left;
+    }
+    .theFlex{
+        display: grid;
+        grid-template-columns: 2fr,2fr;
     }
 }
