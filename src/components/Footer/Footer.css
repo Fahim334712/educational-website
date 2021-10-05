@@ -1,7 +1,19 @@
 .color{
     background-color: aquamarine;
-    padding: 10px 0px 10px 0px;
+    padding: 5px 0px 10px 0px;
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    grid-gap: 10px;
+    
 }
 .align{
     text-align: left;
+    margin-left: 60px;
+}
+.fab{
+    cursor: pointer;
+    
+}
+.all{
+    background-color: aquamarine;
 }

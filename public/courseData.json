@@ -5,78 +5,78 @@
         "fee": "$2000",
         "picture": "images/img-1.jpg",
         "course": "Church Baird",
-        "category": "APPLIDECK"
+        "category": "Primary"
     },
     {
-        "_id": "615afefb93c0",
+        "_id": "615afefb93c0fd03",
         "index": 1,
         "fee": "$3000",
         "picture": "images/img-2.jpg",
         "course": "Weeks Ryan",
-        "category": "LETPRO"
+        "category": "JSC"
     },
     {
-        "_id": "615afefb87ebaaa08a327d3",
+        "_id": "615afefb87",
         "index": 2,
         "fee": "$5000",
         "picture": "images/img-3.jpg",
         "course": "Meyer Bryant",
-        "category": "ECSTASIA"
+        "category": "SSC"
     },
     {
-        "_id": "615afefbde1416",
+        "_id": "615afefb",
         "index": 3,
         "fee": "$7000",
         "picture": "images/img-4.jpg",
-        "course": "Irma Lester",
-        "category": "KIDSTOCK"
+        "course": "Academic",
+        "category": "HSC"
     },
     {
-        "_id": "615afefb87ebaaa08a32",
+        "_id": "615afef",
         "index": 2,
         "fee": "$5000",
         "picture": "images/img-5.jpg",
-        "course": "Meyer Bryant",
-        "category": "ECSTASIA"
+        "course": "MS-Word",
+        "category": "Skill develope"
     },
     {
-        "_id": "615afefb87ebaaa08a",
+        "_id": "615afe",
         "index": 2,
         "fee": "$5000",
         "picture": "images/img-6.jpg",
-        "course": "Meyer Bryant",
-        "category": "ECSTASIA"
+        "course": "MS-Excell",
+        "category": "Skill develope"
     },
     {
-        "_id": "615afefb87ebaaa0",
+        "_id": "615af",
         "index": 2,
         "fee": "$5000",
         "picture": "images/img-7.jpg",
-        "course": "Meyer Bryant",
-        "category": "ECSTASIA"
+        "course": "Grapics",
+        "category": "Skill develope"
     },
     {
-        "_id": "615afefb87ebaaa08a",
+        "_id": "615a",
         "index": 2,
         "fee": "$5000",
         "picture": "images/img-8.jpg",
-        "course": "Meyer Bryant",
-        "category": "ECSTASIA"
+        "course": "Web develope",
+        "category": "Skill develope"
     },
     {
-        "_id": "615afefb87ebaaa08a32",
+        "_id": "615",
         "index": 2,
         "fee": "$5000",
         "picture": "images/img-9.jpg",
-        "course": "Meyer Bryant",
-        "category": "ECSTASIA"
+        "course": "Programming",
+        "category": "Skill develope"
     },
     {
-        "_id": "615afefb87ebaaa08a327y",
+        "_id": "61",
         "index": 2,
         "fee": "$5000",
         "picture": "images/img-10.jpg",
-        "course": "Meyer Bryant",
-        "category": "ECSTASIA"
+        "course": "Photograpy",
+        "category": "Skill develope"
     }
 ]

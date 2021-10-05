@@ -17,7 +17,7 @@ const Instractor = () => {
     }
     return (
         <div>
-            <h2>This is Instractors</h2>
+            <h2 className="m-4">Our Experience Instractors Panel Here :</h2>
             <div className="DataGrid container">
                 {
                     datas.map(data => <LoadData key={data._id} data={data}></LoadData>)

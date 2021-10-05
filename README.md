@@ -2,9 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Site View
 
-In the project directory, you can run:
+Its a Educational Demo site.
 
 ### `npm start`
 

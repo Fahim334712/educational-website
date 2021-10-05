@@ -1,7 +1,7 @@
 
 .homeDisplay{
-    display: flex;
-    grid-gap: 10px;
+    display: grid;
+    grid-template-columns: 2.5fr,1.5fr;
     border: 3px solid hotpink;
     margin: 10px;
     border-radius: 20px;
@@ -19,7 +19,7 @@
     margin: 12px 3px 5px 5px;
     
 }
-.align{
+.aligns{
     text-align: left;
     margin-left: 10px;
     line-height: 80%;

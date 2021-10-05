@@ -5,7 +5,7 @@
         "fee": "$2000",
         "picture": "images/img-1.jpg",
         "course": "Church Baird",
-        "category": "APPLIDECK"
+        "category": "Primary"
     },
     {
         "_id": "615afefb93c0fd0317f77b29",
@@ -13,7 +13,7 @@
         "fee": "$3000",
         "picture": "images/img-2.jpg",
         "course": "Weeks Ryan",
-        "category": "LETPRO"
+        "category": "JSC"
     },
     {
         "_id": "615afefb87ebaaa08a327d3d",
@@ -21,14 +21,14 @@
         "fee": "$5000",
         "picture": "images/img-3.jpg",
         "course": "Meyer Bryant",
-        "category": "ECSTASIA"
+        "category": "SSC"
     },
     {
         "_id": "615afefbde14161480bdcc49",
         "index": 3,
         "fee": "$7000",
         "picture": "images/img-4.jpg",
-        "course": "Irma Lester",
-        "category": "KIDSTOCK"
+        "course": "Academic",
+        "category": "HSC"
     }
 ]

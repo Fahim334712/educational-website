@@ -11,9 +11,10 @@ const Header = () => {
     };
     const style = { textDecoration: 'none' }
     return (
-        <div className="header">
+        <div className="header pb-1">
             <img className="Size" src="./images/img-11.png" alt="" />
-            <nav className="NavSize m-3">
+            <p>(Academic and skill development center)</p>
+            <nav className="NavSize m-3 p-1">
                 <NavLink className="Color m-3" style={style} activeStyle={activeStyle} to="/home">Home </NavLink>
                 <NavLink className="Color m-3" style={style} activeStyle={activeStyle} to="/courses">Courses </NavLink>
                 <NavLink className="Color m-3" style={style} activeStyle={activeStyle} to="/contact">Contact </NavLink>

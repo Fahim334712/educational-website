@@ -20,7 +20,7 @@ const Courses = () => {
 
     return (
         <div>
-            <h2>This is Courses</h2>
+            <h2 className="mt-3 mb-3">All Courses Here</h2>
             <div className="theGrid container">
                 {
                     courses.map(course => <CourseDisplay key={course._id} course={course}></CourseDisplay>)

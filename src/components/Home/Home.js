@@ -18,7 +18,7 @@ const Home = () => {
     }
     return (
         <div >
-            <h4 className="m-4">Avaiable Courses :</h4>
+            <h4 className="m-4">Avaiable Courses : (10)</h4>
             <div className="photoGrid container">
 
                 <div>
@@ -29,6 +29,7 @@ const Home = () => {
                 </div>
                 <div className="mt-5">
                     <img className="imSize" src="./images/fav.png" alt="" />
+                    <img className="imSizes mt-5" src="./images/ima.png" alt="" />
                 </div>
                 <Button onClick={handleCourses} variant="success">See all Courses</Button>
             </div>
